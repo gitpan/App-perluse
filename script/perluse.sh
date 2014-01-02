@@ -38,7 +38,7 @@ POD
 
 
 perlbrew=perlbrew
-VERSION=0.0100
+VERSION=0.0101
 
 PERLBREW_ROOT=${PERLBREW_ROOT:-$HOME/perl5/perlbrew}
 
@@ -94,7 +94,7 @@ fi
 
   $ cpanm App::perluse
 
-=head2 Without cpanm(1)
+=head2 Directly
 
   $ lwp-request http://git.io/dXVJCg | sh
 

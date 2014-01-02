@@ -13,11 +13,11 @@ name: App-perluse
 provides:
   App::perluse:
     file: lib/App/perluse.pm
-    version: 0.0100
+    version: 0.0101
 recommends:
   App::perlbrew: 0
 resources:
   bugtracker: http://github.com/dex4er/perluse/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/dex4er/perluse
-version: 0.0100
+version: 0.0101
