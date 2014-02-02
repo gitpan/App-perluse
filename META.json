@@ -4,7 +4,7 @@
       "Piotr Roszatycki <dexter@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.4203",
+   "generated_by" : "Module::Build version 0.4204",
    "license" : [
       "perl_5"
    ],
@@ -23,7 +23,7 @@
    "provides" : {
       "App::perluse" : {
          "file" : "lib/App/perluse.pm",
-         "version" : "0.0101"
+         "version" : "0.0102"
       }
    },
    "release_status" : "stable",
@@ -38,5 +38,5 @@
          "url" : "http://github.com/dex4er/perluse"
       }
    },
-   "version" : "0.0101"
+   "version" : "0.0102"
 }

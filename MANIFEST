@@ -3,8 +3,12 @@ Changes
 examples/install.sh
 inc/Module/Build/My.pm
 lib/App/perluse.pm
+LICENSE
+Makefile.PL
 MANIFEST			This list of files
 MANIFEST.SKIP
+META.json
+META.yml
 README
 README.md
 script/perluse.sh
@@ -28,7 +32,4 @@ xt/pod_syntax.t
 xt/portability_files.t
 xt/ppport.t
 xt/signature.t
-Makefile.PL
-LICENSE
-META.yml
-META.json
+SIGNATURE    Added here by Module::Build
